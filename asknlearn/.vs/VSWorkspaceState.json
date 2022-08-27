@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\feed\\controllers",
+    "\\src\\feed\\models",
+    "\\src\\feed\\services",
+    "\\src\\user",
+    "\\src\\user\\controllers",
+    "\\src\\user\\services"
+  ],
+  "SelectedNode": "\\src\\user\\user.module.ts",
+  "PreviewInSolutionExplorer": false
+}
